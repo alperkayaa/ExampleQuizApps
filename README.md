@@ -67,3 +67,76 @@ Zaman sayacı, anlık geri bildirim ve skor sistemi ile interaktif bir deneyim s
 ## 👨‍💻 Geliştirici
 
 **Alper Kaya**
+---------------------------------------------------------------------------------------
+
+# 🧠 Quiz Application
+
+This project is a simple and user-friendly quiz application that allows users to test themselves with multiple-choice questions.  
+It provides an interactive experience with a timer, instant feedback, and a scoring system.
+
+---
+
+## 📄 Features
+
+- ▶️ Start quiz system  
+- ❓ Dynamic question display  
+- ⏱️ Timed questions  
+- 📊 Correct / incorrect answer control  
+- ✅ Visual feedback for correct answers  
+- ❌ Visual feedback for incorrect answers  
+- 🔒 Lock options after answering  
+- ⏭️ Move to the next question  
+- 🏆 Show score at the end of the quiz  
+- 🔄 Replay feature  
+
+---
+
+## 🔍 Application Flow
+
+- User clicks the “Start Quiz” button  
+- Questions are displayed one by one  
+- A timer starts for each question  
+- User selects an answer:
+  - Green if correct  
+  - Red if incorrect  
+- If time runs out, it automatically moves to the next question  
+- After all questions, the score screen is shown  
+
+---
+
+## 🧰 Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla JS)  
+- Bootstrap 5  
+- Bootstrap Icons  
+
+---
+
+## 📱 Application Features
+
+- 📱 Responsive design  
+- ⚡ Dynamic DOM manipulation  
+- ⏱️ Timer system  
+- 📊 Score calculation algorithm  
+- 🎯 User-friendly interface  
+- 🎨 Correct / incorrect color feedback  
+- 📈 Progress indicator (timeline bar)  
+
+---
+
+## 🧠 Project Structure
+
+- `Soru.js` → Question model and answer validation  
+- `Quiz.js` → Quiz management (question order, score)  
+- `UI.js` → UI operations and DOM manipulation  
+- `app.js` → Application flow and event handling  
+
+---
+
+## 👨‍💻 Developer
+
+**Alper Kaya**
+
+
